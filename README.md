@@ -46,6 +46,8 @@ Name | Repository | License
 Name | Repository | License
 ---- | ---------- | ------
 [built_value](https://pub.dartlang.org/packages/built_value) | https://github.com/google/built_value.dart | [BSD](https://github.com/google/built_value.dart/blob/master/LICENSE)
+[css_lib](https://pub.dartlang.org/packages/css_lib) | https://github.com/dart-lang/css_lib | [BSD](https://github.com/dart-lang/css_lib/blob/master/LICENSE)
+[html](https://pub.dartlang.org/packages/css_lib) | https://github.com/dart-lang/html | [BSD](https://github.com/dart-lang/html/blob/master/LICENSE)
 [markdown](https://pub.dartlang.org/packages/markdown) | https://github.com/dart-lang/markdown | [BSD](https://github.com/dart-lang/markdown/blob/master/LICENSE)
 [yaml](https://pub.dartlang.org/packages/yaml) | https://github.com/dart-lang/yaml | [BSD](https://github.com/dart-lang/yaml/blob/master/LICENSE)
 

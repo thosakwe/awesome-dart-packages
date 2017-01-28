@@ -31,6 +31,7 @@ Name | Repository | License
 Name | Repository | License
 ---- | ---------- | ------
 [pool](https://pub.dartlang.org/packages/pool) | https://github.com/dart-lang/pool | [BSD](https://github.com/dart-lang/pool/blob/master/LICENSE)
+[rxdart](https://pub.dartlang.org/packages/rxdart) | https://github.com/frankpepermans/rxdart | [Apache](https://github.com/frankpepermans/rxdart/blob/master/LICENSE)
 [stream_channel](https://pub.dartlang.org/packages/stream_channel) | https://github.com/dart-lang/stream_channel | [BSD](https://github.com/dart-lang/stream_channel/blob/master/LICENSE)
 
 ## Code Generation
@@ -46,7 +47,7 @@ Name | Repository | License
 Name | Repository | License
 ---- | ---------- | ------
 [built_value](https://pub.dartlang.org/packages/built_value) | https://github.com/google/built_value.dart | [BSD](https://github.com/google/built_value.dart/blob/master/LICENSE)
-[css_lib](https://pub.dartlang.org/packages/css_lib) | https://github.com/dart-lang/css_lib | [BSD](https://github.com/dart-lang/css_lib/blob/master/LICENSE)
+[csslib](https://pub.dartlang.org/packages/csslib) | https://github.com/dart-lang/csslib | [BSD](https://github.com/dart-lang/csslib/blob/master/LICENSE)
 [html](https://pub.dartlang.org/packages/css_lib) | https://github.com/dart-lang/html | [BSD](https://github.com/dart-lang/html/blob/master/LICENSE)
 [markdown](https://pub.dartlang.org/packages/markdown) | https://github.com/dart-lang/markdown | [BSD](https://github.com/dart-lang/markdown/blob/master/LICENSE)
 [yaml](https://pub.dartlang.org/packages/yaml) | https://github.com/dart-lang/yaml | [BSD](https://github.com/dart-lang/yaml/blob/master/LICENSE)
@@ -61,6 +62,7 @@ Name | Repository | License
 
 Name | Repository | License
 ---- | ---------- | ------
+[firebase](https://pub.dartlang.org/packages/firebase) | https://github.com/firebase/firebase-dart | [MIT](https://github.com/firebase/firebase-dart/blob/master/LICENSE)
 [http](https://pub.dartlang.org/packages/http) | https://github.com/dart-lang/http | [BSD](https://github.com/dart-lang/http/blob/master/LICENSE)
 
 ## Testing

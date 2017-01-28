@@ -22,6 +22,7 @@ Name | Repository | License
 * [Code Generation](#codegen)
 * [Encoding & Serialization](#encoding)
 * [Networking](#networking)
+* [Servers](#servers)
 * [Testing](#testing)
 * [Utilities](#utilities)
 * [Web](#web)
@@ -38,6 +39,7 @@ Name | Repository | License
 
 Name | Repository | License
 ---- | ---------- | ------
+[analyzer](https://pub.dartlang.org/packages/analyzer) | https://github.com/dart-lang/sdk/tree/master/pkg/analyzer | [BSD](https://github.com/dart-lang/sdk/tree/master/pkg/analyzer/blob/master/LICENSE)
 [build](https://pub.dartlang.org/packages/build) | https://github.com/dart-lang/build | [BSD](https://github.com/dart-lang/build/blob/master/LICENSE)
 [code_builder](https://pub.dartlang.org/packages/code_builder) | https://github.com/dart-lang/code_builder | [BSD](https://github.com/dart-lang/code_builder/blob/master/LICENSE)
 [source_gen](https://pub.dartlang.org/packages/source_gen) | https://github.com/dart-lang/source_gen | [BSD](https://github.com/dart-lang/source_gen/blob/master/LICENSE)
@@ -46,6 +48,7 @@ Name | Repository | License
 
 Name | Repository | License
 ---- | ---------- | ------
+[archive](https://pub.dartlang.org/packages/archive) | https://github.com/brendan-duncan/archive | [Apache](https://github.com/brendan-duncan/archive/blob/master/LICENSE)
 [built_value](https://pub.dartlang.org/packages/built_value) | https://github.com/google/built_value.dart | [BSD](https://github.com/google/built_value.dart/blob/master/LICENSE)
 [csslib](https://pub.dartlang.org/packages/csslib) | https://github.com/dart-lang/csslib | [BSD](https://github.com/dart-lang/csslib/blob/master/LICENSE)
 [html](https://pub.dartlang.org/packages/css_lib) | https://github.com/dart-lang/html | [BSD](https://github.com/dart-lang/html/blob/master/LICENSE)
@@ -64,6 +67,14 @@ Name | Repository | License
 ---- | ---------- | ------
 [firebase](https://pub.dartlang.org/packages/firebase) | https://github.com/firebase/firebase-dart | [MIT](https://github.com/firebase/firebase-dart/blob/master/LICENSE)
 [http](https://pub.dartlang.org/packages/http) | https://github.com/dart-lang/http | [BSD](https://github.com/dart-lang/http/blob/master/LICENSE)
+
+## Servers
+
+Name | Repository | License
+---- | ---------- | ------
+[aqueduct](https://pub.dartlang.org/packages/aqueduct) | https://github.com/stablekernel/aqueduct | [BSD](https://github.com/stablekernel/aqueduct/blob/master/LICENSE)
+[redstone](https://pub.dartlang.org/packages/redstone) | https://github.com/redstone-dart/redstone | [MIT](https://github.com/redstone-dart/redstone)
+[shelf](https://pub.dartlang.org/packages/shelf) | https://github.com/dart-lang/shelf | [BSD](https://github.com/dart-lang/shelf/blob/master/LICENSE)
 
 ## Testing
 
@@ -85,3 +96,5 @@ Name | Repository | License
 ---- | ---------- | ------
 [angular2](https://pub.dartlang.org/packages/angular2) | https://github.com/dart-lang/angular2 | [MIT](https://github.com/dart-lang/angular2/blob/master/LICENSE)
 [over_react](https://pub.dartlang.org/packages/over_react) | https://github.com/Workiva/over_react | [Apache](https://github.com/Workiva/over_react/blob/master/LICENSE)
+[sass](https://pub.dartlang.org/pacakges/sass) | https://github.com/sass/dart-sass | [MIT](https://github.com/sass/dart-sass/blob/master/LICENSE)
+[stagexl](https://pub.dartlang.org/packages/stagexl) | https://github.com/bp74/StageXL | [BSD](https://github.com/bp74/StageXL/blob/master/LICENSE)
